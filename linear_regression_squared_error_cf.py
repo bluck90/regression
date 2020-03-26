@@ -5,7 +5,7 @@ Created on Thu Mar 26 16:08:23 2020
 @author: btgl1e14
 """
 
-# Linear Regression with a squared error cost function
+# Linear Regression gradient descent with a squared error cost function
 
 # Use find_theta_values to find the minimised parameters for the linear regression model h(x) = theta0 + theta1 * x
 
